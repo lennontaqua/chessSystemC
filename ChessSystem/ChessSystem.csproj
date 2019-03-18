@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tabuleiro\Board.cs" />
+    <Compile Include="Tabuleiro\Color.cs" />
+    <Compile Include="Tabuleiro\Piece.cs" />
     <Compile Include="Tabuleiro\Position.cs" />
   </ItemGroup>
   <ItemGroup>
